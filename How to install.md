@@ -1,9 +1,13 @@
 Install in file Front-end :
+
     install: npm i react-bootstrap bootstrap@5.1.3 react-router-dom@6 cors jsonwebtoken md5
+
     run to : npm start
 
 Install in file back-end :
+
     install: npm i express cors jsonwebtoken mysql
+    
     run to: node server.js
 
 
